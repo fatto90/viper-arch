@@ -1,0 +1,6 @@
+viper-arch/Pods
+viper-arch/viper-arch.xcodeproj
+viper-arch/viper-arch.xcworkspace
+viper-arch/.DS_Store
+viper-arch/Podfile.lock
+.DS_Store
